@@ -1,3 +1,5 @@
+*Fixes Requests library issue*
+
 http a HTTP library for Python
 ==============================
 
