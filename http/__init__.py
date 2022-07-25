@@ -12,9 +12,9 @@ __author__ = 'Franck Cuny'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2012 Franck Cuny'
 
-__all__ = ['Request', 'Response', 'HTTPException', 'Headers', 'Date', 'Url']
+__all__ = ['Requests', 'Response', 'HTTPException', 'Headers', 'Date', 'Url']
 
-from request import Request
+from requests import Request
 from response import Response
 from headers import Headers
 from date import Date
